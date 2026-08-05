@@ -4,16 +4,16 @@
 Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by problem difficulty.
 Synced automatically by CF Sync.
 
-**Total solved: 142**
+**Total solved: 154**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./800) | 23 |
 | [900](./900) | 11 |
 | [1000](./1000) | 12 |
-| [1100](./1100) | 16 |
-| [1200](./1200) | 26 |
-| [1300](./1300) | 19 |
+| [1100](./1100) | 17 |
+| [1200](./1200) | 27 |
+| [1300](./1300) | 29 |
 | [1400](./1400) | 16 |
 | [1500](./1500) | 8 |
 | [1600](./1600) | 3 |
