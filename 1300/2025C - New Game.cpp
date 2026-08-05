@@ -32,56 +32,72 @@ using namespace std;
 const int MOD = 1e9 + 7;
 const ll INF = 1e18;
 
-void solve() {
-    ll n,k;
-    cin>>n>>k;
+void solve()
+{
+    ll n, k;
+    cin >> n >> k;
     vector<ll> nums(n);
-    for(ll &x :nums) cin>>x;
+    for (ll &x : nums)
+        cin >> x;
 
-    sort(nums.begin() ,nums.end());
-    vector<pair<ll,ll>> window;
-    for(int i=0; i<n;){
-        int j=i;
-        while(j<n && nums[j]==nums[i]){ // frquncy counting
-            j++;
-        }
-        window.push_back({nums[i],j-i});
-        i=j;   //next element 
+    // sort(nums.begin() ,nums.end());
+    // vector<pair<ll,ll>> window;
+    // for(int i=0; i<n;){
+    //     int j=i;
+    //     while(j<n && nums[j]==nums[i]){ // frquncy counting
+    //         j++;
+    //     }
+    //     window.push_back({nums[i],j-i});
+    //     i=j;   //next element
+    // }
+    map<long long, long long> freq;
+
+    for (auto x : nums)
+    {
+        freq[x]++;
+    }
+
+    vector<pair<ll, ll>> window;
+
+    for (auto &[value, cnt] : freq)
+    {
+        window.push_back({value, cnt});
     }
     int m = window.size();
-    ll ans=0;
-    ll current_sum=0;
-    int left =0;
-    for(int right=0; right<m;right++){
-        if(right>0 && window[right].first != window[right-1].first+1){
-            left=right;
-            current_sum=0;
+    ll ans = 0;
+    ll current_sum = 0;
+    int left = 0;
+    for (int right = 0; right < m; right++)
+    {
+        if (right > 0 && window[right].first != window[right - 1].first + 1)
+        {
+            left = right;
+            current_sum = 0;
         }
-        current_sum+=window[right].second;
+        current_sum += window[right].second;
 
-        while(right-left+1>k){
-            current_sum-=window[left].second;
+        while (right - left + 1 > k)
+        {
+            current_sum -= window[left].second;
             left++;
         }
 
-        ans=max(ans , current_sum);
-
+        ans = max(ans, current_sum);
     }
 
-    cout<<ans<<endl;
-
-
-
+    cout << ans << endl;
 }
 
-int main() {
+int main()
+{
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
-    int t=1;
+    int t = 1;
     cin >> t;
 
-    while (t--) {
+    while (t--)
+    {
         solve();
     }
 
