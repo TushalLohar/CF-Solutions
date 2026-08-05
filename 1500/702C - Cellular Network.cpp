@@ -1,28 +1,101 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <string>
+#include <algorithm>
+#include <cmath>
+#include <queue>
+#include <stack>
+#include <set>
+#include <map>
+#include <unordered_set>
+#include <unordered_map>
+#include <deque>
+#include <list>
+#include <numeric>
+#include <iomanip>
+#include <climits>
+#include <cstring>
+
 using namespace std;
 
-int main() {
-    int n, m;
-    cin >> n >> m;
+#define ll long long
+#define fast_io                  \
+    ios::sync_with_stdio(false); \
+    cin.tie(nullptr);
 
-    vector<long long> city(n);
-    vector<long long> tower(m);
+vector<ll> a, b;
+ll n, m;
 
-    for (int i = 0; i < n; i++) cin >> city[i];
-    for (int i = 0; i < m; i++) cin >> tower[i];
+bool checker(ll r)
+{
+    ll i = 0;
+    ll j = 0;
 
-    long long ans = 0;
-    int j = 0;
-
-    for (int i = 0; i < n; i++) {
-
-        while (j + 1 < m &&
-               abs(city[i] - tower[j + 1]) <= abs(city[i] - tower[j])) {
+    while (i < n && j < m)
+    {
+        if (abs(a[i] - b[j]) <= r)
+        {
+            i++;
+        }
+        else
+        {
             j++;
         }
+    }
 
-        ans = max(ans, abs(city[i] - tower[j]));
+    return i == n;
+    return false;
+}
+
+void solve()
+{
+    cin >> n >> m;
+
+    a.resize(n);
+    b.resize(m);
+
+    for (ll i = 0; i < n; i++)
+    {
+        cin >> a[i];
+    }
+
+    for (ll i = 0; i < m; i++)
+    {
+        cin >> b[i];
+    }
+
+    ll low = 0;
+    ll high = 2e9;
+    ll ans = high;
+
+    while (low <= high)
+    {
+        ll mid = (high + low) / 2;
+
+        if (checker(mid))
+        {
+            ans = mid;
+            high = mid - 1;
+        }
+        else
+        {
+            low = mid + 1;
+        }
     }
 
     cout << ans << '\n';
+}
+
+int main()
+{
+    fast_io
+
+        int t = 1;
+
+    while (t--)
+    {
+        solve();
+    }
+
+    return 0;
 }
