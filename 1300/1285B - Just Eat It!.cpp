@@ -33,10 +33,10 @@ const int MOD = 1e9 + 7;
 const ll INF = 1e18;
 
 ll kadane(vector<ll> &a, int l, int r) {
-    ll cur = a[l];
-    ll best = a[l];
+    ll best = LLONG_MIN;
+    ll cur = 0;
 
-    for (int i = l + 1; i <= r; i++) {
+    for (int i = l; i <= r; i++) {
         cur = max(a[i], cur + a[i]);
         best = max(best, cur);
     }
