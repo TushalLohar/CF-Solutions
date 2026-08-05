@@ -4,7 +4,7 @@
 Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by problem difficulty.
 Synced automatically by CF Sync.
 
-**Total solved: 42**
+**Total solved: 44**
 
 | Difficulty | Solved |
 | --- | --- |
@@ -12,9 +12,9 @@ Synced automatically by CF Sync.
 | [1000](./1000) | 2 |
 | [1100](./1100) | 2 |
 | [1200](./1200) | 2 |
-| [1300](./1300) | 28 |
+| [1300](./1300) | 29 |
 | [1400](./1400) | 1 |
 | [1700](./1700) | 1 |
-| [Unrated](./Unrated) | 4 |
+| [Unrated](./Unrated) | 5 |
 
 _Last updated: 2026-08-05_
