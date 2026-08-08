@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T08:32:06.050Z",
+  "updatedAt": "2026-08-08T08:32:22.395Z",
   "entries": {
     "codeforces:1077C": {
       "at": 1786140261702,
@@ -1373,6 +1373,14 @@
       "tags": [],
       "title": "Random Teams"
     },
+    "codeforces:492B": {
+      "at": 1786177926043,
+      "folder": "1200",
+      "path": "1200/492B - Vanya and Lanterns.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Vanya and Lanterns"
+    },
     "codeforces:4C": {
       "folder": "1300",
       "path": "1300/4C - Registration System.cpp",
@@ -2281,13 +2289,13 @@
       "tags": [],
       "title": "smallest-missing-integer-greater-than-sequential-prefix-sum"
     },
-    "codeforces:492B": {
+    "codeforces:1033B": {
       "platform": "codeforces",
-      "folder": "1200",
-      "title": "Vanya and Lanterns",
-      "path": "1200/492B - Vanya and Lanterns.cpp",
+      "folder": "1100",
+      "title": "Square Difference",
+      "path": "1100/1033B - Square Difference.cpp",
       "tags": [],
-      "at": 1786177926043
+      "at": 1786177942389
     }
   }
 }
