@@ -3,20 +3,20 @@
 
 Synced automatically by CF Sync.
 
-**Total solved: 269**
+**Total solved: 270**
 
 ## Codeforces
 
 Solutions by [Tushal_007](https://codeforces.com/profile/Tushal_007), organized by difficulty rating.
 
-**Solved: 197**
+**Solved: 198**
 
 | Difficulty | Solved |
 | --- | --- |
 | [800](./800) | 33 |
 | [900](./900) | 12 |
 | [1000](./1000) | 14 |
-| [1100](./1100) | 19 |
+| [1100](./1100) | 20 |
 | [1200](./1200) | 28 |
 | [1300](./1300) | 46 |
 | [1400](./1400) | 17 |
