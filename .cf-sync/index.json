@@ -1,7 +1,15 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08T08:32:22.395Z",
+  "updatedAt": "2026-08-08T08:33:18.029Z",
   "entries": {
+    "codeforces:1033B": {
+      "at": 1786177942389,
+      "folder": "1100",
+      "path": "1100/1033B - Square Difference.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Square Difference"
+    },
     "codeforces:1077C": {
       "at": 1786140261702,
       "folder": "1300",
@@ -2289,13 +2297,13 @@
       "tags": [],
       "title": "smallest-missing-integer-greater-than-sequential-prefix-sum"
     },
-    "codeforces:1033B": {
+    "codeforces:26A": {
       "platform": "codeforces",
-      "folder": "1100",
-      "title": "Square Difference",
-      "path": "1100/1033B - Square Difference.cpp",
+      "folder": "900",
+      "title": "Almost Prime",
+      "path": "900/26A - Almost Prime.cpp",
       "tags": [],
-      "at": 1786177942389
+      "at": 1786177998022
     }
   }
 }
