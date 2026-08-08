@@ -1,0 +1,2293 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-08T08:32:06.050Z",
+  "entries": {
+    "codeforces:1077C": {
+      "at": 1786140261702,
+      "folder": "1300",
+      "path": "1300/1077C - Good Array.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Good Array"
+    },
+    "codeforces:1150A": {
+      "folder": "800",
+      "path": "800/1150A - Stock Arbitraging.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Stock Arbitraging"
+    },
+    "codeforces:1166C": {
+      "folder": "1500",
+      "path": "1500/1166C - A Tale of Two Lands.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "A Tale of Two Lands"
+    },
+    "codeforces:1215B": {
+      "folder": "1400",
+      "path": "1400/1215B - The Number of Products.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "The Number of Products"
+    },
+    "codeforces:1215C": {
+      "folder": "1500",
+      "path": "1500/1215C - Swap Letters.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Swap Letters"
+    },
+    "codeforces:1285B": {
+      "at": 1786139844304,
+      "folder": "1300",
+      "path": "1300/1285B - Just Eat It!.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Just Eat It!"
+    },
+    "codeforces:1294C": {
+      "at": 1786139696846,
+      "folder": "1300",
+      "path": "1300/1294C - Product of Three Numbers.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Product of Three Numbers"
+    },
+    "codeforces:1307B": {
+      "folder": "1300",
+      "path": "1300/1307B - Cow and Friend.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cow and Friend"
+    },
+    "codeforces:1320A": {
+      "folder": "1400",
+      "path": "1400/1320A - Journey Planning.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Journey Planning"
+    },
+    "codeforces:1328B": {
+      "at": 1786139826758,
+      "folder": "1300",
+      "path": "1300/1328B - K-th Beautiful String.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "K-th Beautiful String"
+    },
+    "codeforces:1332B": {
+      "folder": "1400",
+      "path": "1400/1332B - Composite Coloring.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Composite Coloring"
+    },
+    "codeforces:1335D": {
+      "at": 1786140294527,
+      "folder": "1300",
+      "path": "1300/1335D - Anti-Sudoku.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Anti-Sudoku"
+    },
+    "codeforces:1343A": {
+      "folder": "900",
+      "path": "900/1343A - Candies.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Candies"
+    },
+    "codeforces:1352D": {
+      "at": 1786139614345,
+      "folder": "1300",
+      "path": "1300/1352D - Alice, Bob and Candies.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Alice, Bob and Candies"
+    },
+    "codeforces:1360D": {
+      "at": 1786139700943,
+      "folder": "1300",
+      "path": "1300/1360D - Buying Shovels.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Buying Shovels"
+    },
+    "codeforces:1362C": {
+      "folder": "1400",
+      "path": "1400/1362C - Johnny and Another Rating Drop.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Johnny and Another Rating Drop"
+    },
+    "codeforces:1365B": {
+      "at": 1786140312591,
+      "folder": "1300",
+      "path": "1300/1365B - Trouble Sort.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Trouble Sort"
+    },
+    "codeforces:1366B": {
+      "at": 1786140299272,
+      "folder": "1300",
+      "path": "1300/1366B - Shuffle.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Shuffle"
+    },
+    "codeforces:1372B": {
+      "at": 1786139713270,
+      "folder": "1300",
+      "path": "1300/1372B - Omkar and Last Class of Math.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Omkar and Last Class of Math"
+    },
+    "codeforces:1374C": {
+      "folder": "1000",
+      "path": "1000/1374C - Move Brackets.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Move Brackets"
+    },
+    "codeforces:1374D": {
+      "folder": "1400",
+      "path": "1400/1374D - Zero Remainder Array.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Zero Remainder Array"
+    },
+    "codeforces:1470A": {
+      "at": 1786139861126,
+      "folder": "1300",
+      "path": "1300/1470A - Strange Birthday Party.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Strange Birthday Party"
+    },
+    "codeforces:1474B": {
+      "at": 1786140429088,
+      "folder": "1000",
+      "path": "1000/1474B - Different Divisors.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Different Divisors"
+    },
+    "codeforces:1479A": {
+      "folder": "1700",
+      "path": "1700/1479A - Searching Local Minimum.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Searching Local Minimum"
+    },
+    "codeforces:1487D": {
+      "folder": "1500",
+      "path": "1500/1487D - Pythagorean Triples.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Pythagorean Triples"
+    },
+    "codeforces:1509B": {
+      "at": 1786140447742,
+      "folder": "1100",
+      "path": "1100/1509B - TMT Document.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "TMT Document"
+    },
+    "codeforces:1513B": {
+      "folder": "1400",
+      "path": "1400/1513B - AND Sequences.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "AND Sequences"
+    },
+    "codeforces:1537E2": {
+      "folder": "2200",
+      "path": "2200/1537E2 - Erase and Extend (Hard Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Erase and Extend (Hard Version)"
+    },
+    "codeforces:1538C": {
+      "at": 1786139721369,
+      "folder": "1300",
+      "path": "1300/1538C - Number of Pairs.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Number of Pairs"
+    },
+    "codeforces:1648A": {
+      "folder": "1400",
+      "path": "1400/1648A - Weird Sum.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Weird Sum"
+    },
+    "codeforces:1660B": {
+      "at": 1786140440321,
+      "folder": "800",
+      "path": "800/1660B - Vlad and Candies.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Vlad and Candies"
+    },
+    "codeforces:1669H": {
+      "at": 1786139852812,
+      "folder": "1300",
+      "path": "1300/1669H - Maximal AND.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Maximal AND"
+    },
+    "codeforces:1679B": {
+      "folder": "1200",
+      "path": "1200/1679B - Stone Age Problem.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Stone Age Problem"
+    },
+    "codeforces:1703F": {
+      "at": 1786139848493,
+      "folder": "1300",
+      "path": "1300/1703F - Yet Another Problem About Pairs Satisfying an Inequality.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Yet Another Problem About Pairs Satisfying an Inequality"
+    },
+    "codeforces:1744E1": {
+      "folder": "1500",
+      "path": "1500/1744E1 - Divisible Numbers (easy version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Divisible Numbers (easy version)"
+    },
+    "codeforces:1759D": {
+      "folder": "1400",
+      "path": "1400/1759D - Make It Round.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Make It Round"
+    },
+    "codeforces:1807D": {
+      "folder": "900",
+      "path": "900/1807D - Odd Queries.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Odd Queries"
+    },
+    "codeforces:1808B": {
+      "folder": "1200",
+      "path": "1200/1808B - Playing in a Casino.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Playing in a Casino"
+    },
+    "codeforces:1837C": {
+      "folder": "1000",
+      "path": "1000/1837C - Best Binary String.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Best Binary String"
+    },
+    "codeforces:1843E": {
+      "folder": "1600",
+      "path": "1600/1843E - Tracking Segments.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Tracking Segments"
+    },
+    "codeforces:1846E1": {
+      "at": 1786140229198,
+      "folder": "1300",
+      "path": "1300/1846E1 - Rudolf and Snowflakes (simple version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Rudolf and Snowflakes (simple version)"
+    },
+    "codeforces:1849B": {
+      "folder": "1000",
+      "path": "1000/1849B - Monsters.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Monsters"
+    },
+    "codeforces:1857D": {
+      "at": 1786139857005,
+      "folder": "1300",
+      "path": "1300/1857D - Strong Vertices.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Strong Vertices"
+    },
+    "codeforces:1878B": {
+      "folder": "800",
+      "path": "800/1878B - Aleksa and Stack.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Aleksa and Stack"
+    },
+    "codeforces:1879C": {
+      "at": 1786140236661,
+      "folder": "1300",
+      "path": "1300/1879C - Make it Alternating.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Make it Alternating"
+    },
+    "codeforces:1881D": {
+      "at": 1786139618422,
+      "folder": "1300",
+      "path": "1300/1881D - Divide and Equalize.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Divide and Equalize"
+    },
+    "codeforces:1883G1": {
+      "folder": "1400",
+      "path": "1400/1883G1 - Dances (Easy version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Dances (Easy version)"
+    },
+    "codeforces:1899C": {
+      "folder": "1100",
+      "path": "1100/1899C - Yarik and Array.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Yarik and Array"
+    },
+    "codeforces:189A": {
+      "at": 1786139675404,
+      "folder": "1300",
+      "path": "1300/189A - Cut Ribbon.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cut Ribbon"
+    },
+    "codeforces:1914C": {
+      "folder": "1100",
+      "path": "1100/1914C - Quests.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Quests"
+    },
+    "codeforces:1915E": {
+      "at": 1786139717345,
+      "folder": "1300",
+      "path": "1300/1915E - Romantic Glasses.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Romantic Glasses"
+    },
+    "codeforces:1919B": {
+      "folder": "800",
+      "path": "800/1919B - Plus-Minus Split.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Plus-Minus Split"
+    },
+    "codeforces:1927D": {
+      "at": 1786139610238,
+      "folder": "1300",
+      "path": "1300/1927D - Find the Different Ones!.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Find the Different Ones!"
+    },
+    "codeforces:1931D": {
+      "folder": "1300",
+      "path": "1300/1931D - Divisible Pairs.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Divisible Pairs"
+    },
+    "codeforces:1941C": {
+      "folder": "900",
+      "path": "900/1941C - Rudolf and the Ugly String.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Rudolf and the Ugly String"
+    },
+    "codeforces:1950A": {
+      "folder": "800",
+      "path": "800/1950A - Stair, Peak, or Neither-.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Stair, Peak, or Neither-"
+    },
+    "codeforces:1954C": {
+      "folder": "1200",
+      "path": "1200/1954C - Long Multiplication.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Long Multiplication"
+    },
+    "codeforces:1968A": {
+      "at": 1786140492153,
+      "folder": "800",
+      "path": "800/1968A - Maximize-.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Maximize-"
+    },
+    "codeforces:1969A": {
+      "at": 1786140479870,
+      "folder": "800",
+      "path": "800/1969A - Two Friends.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Two Friends"
+    },
+    "codeforces:1971D": {
+      "folder": "1100",
+      "path": "1100/1971D - Binary Cut.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Binary Cut"
+    },
+    "codeforces:1976A": {
+      "at": 1786140497156,
+      "folder": "800",
+      "path": "800/1976A - Verify Password.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Verify Password"
+    },
+    "codeforces:1977B": {
+      "folder": "1100",
+      "path": "1100/1977B - Binary Colouring.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Binary Colouring"
+    },
+    "codeforces:1981A": {
+      "folder": "800",
+      "path": "800/1981A - Turtle and Piggy Are Playing a Game.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Turtle and Piggy Are Playing a Game"
+    },
+    "codeforces:1983B": {
+      "folder": "1200",
+      "path": "1200/1983B - Corner Twist.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Corner Twist"
+    },
+    "codeforces:1985C": {
+      "folder": "1000",
+      "path": "1000/1985C - Good Prefixes.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Good Prefixes"
+    },
+    "codeforces:1987C": {
+      "folder": "1200",
+      "path": "1200/1987C - Basil's Garden.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Basil's Garden"
+    },
+    "codeforces:1989C": {
+      "folder": "1400",
+      "path": "1400/1989C - Two Movies.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Two Movies"
+    },
+    "codeforces:1992B": {
+      "at": 1786140469969,
+      "folder": "800",
+      "path": "800/1992B - Angry Monk.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Angry Monk"
+    },
+    "codeforces:1999E": {
+      "folder": "1300",
+      "path": "1300/1999E - Triple Operations.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Triple Operations"
+    },
+    "codeforces:2001A": {
+      "folder": "800",
+      "path": "800/2001A - Make All Equal.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Make All Equal"
+    },
+    "codeforces:2003A": {
+      "folder": "800",
+      "path": "800/2003A - Turtle and Good Strings.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Turtle and Good Strings"
+    },
+    "codeforces:2004B": {
+      "folder": "1000",
+      "path": "1000/2004B - Game with Doors.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Game with Doors"
+    },
+    "codeforces:2013A": {
+      "at": 1786140508932,
+      "folder": "800",
+      "path": "800/2013A - Zhan's Blender.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Zhan's Blender"
+    },
+    "codeforces:2014C": {
+      "at": 1786139692703,
+      "folder": "1100",
+      "path": "1100/2014C - Robin Hood in Town.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Robin Hood in Town"
+    },
+    "codeforces:2019B": {
+      "folder": "1200",
+      "path": "1200/2019B - All Pairs Segments.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "All Pairs Segments"
+    },
+    "codeforces:2020C": {
+      "folder": "1400",
+      "path": "1400/2020C - Bitwise Balancing.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Bitwise Balancing"
+    },
+    "codeforces:2021B": {
+      "at": 1786139817357,
+      "folder": "1200",
+      "path": "1200/2021B - Maximize Mex.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Maximize Mex"
+    },
+    "codeforces:2025C": {
+      "folder": "1300",
+      "path": "1300/2025C - New Game.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "New Game"
+    },
+    "codeforces:2026B": {
+      "folder": "1300",
+      "path": "1300/2026B - Black Cells.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Black Cells"
+    },
+    "codeforces:2031B": {
+      "at": 1786140458427,
+      "folder": "900",
+      "path": "900/2031B - Penchick and Satay Sticks.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Penchick and Satay Sticks"
+    },
+    "codeforces:2036D": {
+      "folder": "1300",
+      "path": "1300/2036D - I Love 1543.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "I Love 1543"
+    },
+    "codeforces:2043B": {
+      "folder": "1100",
+      "path": "1100/2043B - Digits.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Digits"
+    },
+    "codeforces:2047B": {
+      "folder": "900",
+      "path": "900/2047B - Replace Character.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Replace Character"
+    },
+    "codeforces:2051D": {
+      "folder": "1200",
+      "path": "1200/2051D - Counting Pairs.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Counting Pairs"
+    },
+    "codeforces:2056A": {
+      "folder": "800",
+      "path": "800/2056A - Shape Perimeter.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Shape Perimeter"
+    },
+    "codeforces:2060D": {
+      "folder": "1100",
+      "path": "1100/2060D - Subtract Min Sort.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Subtract Min Sort"
+    },
+    "codeforces:2067B": {
+      "folder": "1200",
+      "path": "1200/2067B - Two Large Bags.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Two Large Bags"
+    },
+    "codeforces:2069B": {
+      "folder": "1200",
+      "path": "1200/2069B - Set of Strangers.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Set of Strangers"
+    },
+    "codeforces:2071B": {
+      "folder": "1100",
+      "path": "1100/2071B - Perfecto.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Perfecto"
+    },
+    "codeforces:2075B": {
+      "folder": "1300",
+      "path": "1300/2075B - Array Recoloring.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Array Recoloring"
+    },
+    "codeforces:2075C": {
+      "folder": "1500",
+      "path": "1500/2075C - Two Colors.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Two Colors"
+    },
+    "codeforces:2085B": {
+      "folder": "1200",
+      "path": "1200/2085B - Serval and Final MEX.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Serval and Final MEX"
+    },
+    "codeforces:2090D": {
+      "at": 1786139671347,
+      "folder": "1700",
+      "path": "1700/2090D - Simple Permutation.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Simple Permutation"
+    },
+    "codeforces:2092B": {
+      "folder": "1000",
+      "path": "1000/2092B - Lady Bug.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Lady Bug"
+    },
+    "codeforces:2092C": {
+      "folder": "1200",
+      "path": "1200/2092C - Asuna and the Mosquitoes.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Asuna and the Mosquitoes"
+    },
+    "codeforces:2094D": {
+      "folder": "1100",
+      "path": "1100/2094D - Tung Tung Sahur.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Tung Tung Sahur"
+    },
+    "codeforces:2102A": {
+      "folder": "900",
+      "path": "900/2102A - Dinner Time.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Dinner Time"
+    },
+    "codeforces:2106B": {
+      "folder": "900",
+      "path": "900/2106B - St. Chroma.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "St. Chroma"
+    },
+    "codeforces:2107A": {
+      "folder": "800",
+      "path": "800/2107A - LRC and VIP.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "LRC and VIP"
+    },
+    "codeforces:2112B": {
+      "folder": "1100",
+      "path": "1100/2112B - Shrinking Array.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Shrinking Array"
+    },
+    "codeforces:2113B": {
+      "folder": "1200",
+      "path": "1200/2113B - Good Start.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Good Start"
+    },
+    "codeforces:2117C": {
+      "folder": "1200",
+      "path": "1200/2117C - Cool Partition.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cool Partition"
+    },
+    "codeforces:2117E": {
+      "folder": "1600",
+      "path": "1600/2117E - Lost Soul.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Lost Soul"
+    },
+    "codeforces:2119B": {
+      "folder": "1200",
+      "path": "1200/2119B - Line Segments.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Line Segments"
+    },
+    "codeforces:2123C": {
+      "folder": "1000",
+      "path": "1000/2123C - Prefix Min and Suffix Max.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Prefix Min and Suffix Max"
+    },
+    "codeforces:2123D": {
+      "folder": "1200",
+      "path": "1200/2123D - Binary String Battle.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Binary String Battle"
+    },
+    "codeforces:2126E": {
+      "folder": "1400",
+      "path": "1400/2126E - G-C-D, Unlucky!.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "G-C-D, Unlucky!"
+    },
+    "codeforces:2128C": {
+      "folder": "1200",
+      "path": "1200/2128C - Leftmost Below.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Leftmost Below"
+    },
+    "codeforces:2130B": {
+      "folder": "1100",
+      "path": "1100/2130B - Pathless.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Pathless"
+    },
+    "codeforces:2131B": {
+      "at": 1786140463363,
+      "folder": "800",
+      "path": "800/2131B - Alternating Series.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Alternating Series"
+    },
+    "codeforces:2131C": {
+      "folder": "1100",
+      "path": "1100/2131C - Make it Equal.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Make it Equal"
+    },
+    "codeforces:2147A": {
+      "at": 1786140453605,
+      "folder": "800",
+      "path": "800/2147A - Shortest Increasing Path.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Shortest Increasing Path"
+    },
+    "codeforces:2149D": {
+      "folder": "1200",
+      "path": "1200/2149D - A and B.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "A and B"
+    },
+    "codeforces:2158A": {
+      "at": 1786140474926,
+      "folder": "800",
+      "path": "800/2158A - Suspension.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Suspension"
+    },
+    "codeforces:2165A": {
+      "folder": "1300",
+      "path": "1300/2165A - Cyclic Merging.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cyclic Merging"
+    },
+    "codeforces:2169C": {
+      "folder": "1300",
+      "path": "1300/2169C - Range Operation.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Range Operation"
+    },
+    "codeforces:2172E": {
+      "folder": "1200",
+      "path": "1200/2172E - Number Maze.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Number Maze"
+    },
+    "codeforces:2182C": {
+      "folder": "1200",
+      "path": "1200/2182C - Production of Snowmen.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Production of Snowmen"
+    },
+    "codeforces:2189C1": {
+      "at": 1786139603298,
+      "folder": "1300",
+      "path": "1300/2189C1 - XOR Convenience (Easy Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "XOR Convenience (Easy Version)"
+    },
+    "codeforces:2191D1": {
+      "folder": "1400",
+      "path": "1400/2191D1 - Sub-RBS (Easy Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Sub-RBS (Easy Version)"
+    },
+    "codeforces:2196A": {
+      "folder": "1200",
+      "path": "1200/2196A - Game with a Fraction.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Game with a Fraction"
+    },
+    "codeforces:2202C1": {
+      "folder": "1300",
+      "path": "1300/2202C1 - Lost Civilization (Easy Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Lost Civilization (Easy Version)"
+    },
+    "codeforces:2209C": {
+      "folder": "1400",
+      "path": "1400/2209C - Find the Zero.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Find the Zero"
+    },
+    "codeforces:2224B": {
+      "folder": "1200",
+      "path": "1200/2224B - Zhily and Mex and Max.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Zhily and Mex and Max"
+    },
+    "codeforces:2228B": {
+      "at": 1786140484621,
+      "folder": "1100",
+      "path": "1100/2228B - Remilia Plays Soku.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Remilia Plays Soku"
+    },
+    "codeforces:2229C2": {
+      "folder": "1400",
+      "path": "1400/2229C2 - We Be Flipping (Hard Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "We Be Flipping (Hard Version)"
+    },
+    "codeforces:2230C": {
+      "folder": "1300",
+      "path": "1300/2230C - Arrange the Numbers in a Circle.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Arrange the Numbers in a Circle"
+    },
+    "codeforces:2232A": {
+      "folder": "800",
+      "path": "800/2232A - Convergence.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Convergence"
+    },
+    "codeforces:2232B": {
+      "folder": "900",
+      "path": "900/2232B - Cake Leveling.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cake Leveling"
+    },
+    "codeforces:2233A": {
+      "folder": "800",
+      "path": "800/2233A - AI Project Development.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "AI Project Development"
+    },
+    "codeforces:2233B": {
+      "folder": "900",
+      "path": "900/2233B - Different Distances.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Different Distances"
+    },
+    "codeforces:2233C": {
+      "folder": "1400",
+      "path": "1400/2233C - Cost of a Bracket Sequence.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cost of a Bracket Sequence"
+    },
+    "codeforces:2234A": {
+      "folder": "800",
+      "path": "800/2234A - Euclid, Sequence and Two Numbers.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Euclid, Sequence and Two Numbers"
+    },
+    "codeforces:2234B": {
+      "folder": "800",
+      "path": "800/2234B - Palindrome, Twelve and Two Terms.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Palindrome, Twelve and Two Terms"
+    },
+    "codeforces:2234C": {
+      "folder": "1200",
+      "path": "1200/2234C - Vessels, Heights and Two Versions (Easy Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Vessels, Heights and Two Versions (Easy Version)"
+    },
+    "codeforces:2236A": {
+      "folder": "800",
+      "path": "800/2236A - Games on the Train.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Games on the Train"
+    },
+    "codeforces:2236B": {
+      "folder": "800",
+      "path": "800/2236B - Tatar TV Show.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Tatar TV Show"
+    },
+    "codeforces:2236C": {
+      "folder": "1000",
+      "path": "1000/2236C - Omsk Programmers.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Omsk Programmers"
+    },
+    "codeforces:2236E": {
+      "folder": "1700",
+      "path": "1700/2236E - Friendly Gifts.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Friendly Gifts"
+    },
+    "codeforces:2237C": {
+      "folder": "1000",
+      "path": "1000/2237C - Duck Surplus.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Duck Surplus"
+    },
+    "codeforces:2238A": {
+      "folder": "800",
+      "path": "800/2238A - Another Puzzle from Papyrus.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Another Puzzle from Papyrus"
+    },
+    "codeforces:2238B": {
+      "folder": "900",
+      "path": "900/2238B - Crimson Triples.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Crimson Triples"
+    },
+    "codeforces:2238D": {
+      "folder": "1500",
+      "path": "1500/2238D - Storming Arasaka.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Storming Arasaka"
+    },
+    "codeforces:2240A": {
+      "folder": "800",
+      "path": "800/2240A - Another Popcount Problem.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Another Popcount Problem"
+    },
+    "codeforces:2240B": {
+      "folder": "1100",
+      "path": "1100/2240B - AI Finds Nothing Here.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "AI Finds Nothing Here"
+    },
+    "codeforces:2240C": {
+      "folder": "1300",
+      "path": "1300/2240C - Nim Game Is XOR Game.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Nim Game Is XOR Game"
+    },
+    "codeforces:2241A": {
+      "folder": "800",
+      "path": "800/2241A - Divide and Conquer.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Divide and Conquer"
+    },
+    "codeforces:2241B": {
+      "folder": "1100",
+      "path": "1100/2241B - Good times Good times.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Good times Good times"
+    },
+    "codeforces:2241C": {
+      "folder": "1000",
+      "path": "1000/2241C - RemovevomeR.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "RemovevomeR"
+    },
+    "codeforces:2241D": {
+      "folder": "1100",
+      "path": "1100/2241D - An Alternative Way.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "An Alternative Way"
+    },
+    "codeforces:2241F": {
+      "folder": "1700",
+      "path": "1700/2241F - A Bit Odd.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "A Bit Odd"
+    },
+    "codeforces:2242A": {
+      "folder": "800",
+      "path": "800/2242A - Bigrams.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Bigrams"
+    },
+    "codeforces:2242B": {
+      "folder": "1000",
+      "path": "1000/2242B - Predominant Frequency Division.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Predominant Frequency Division"
+    },
+    "codeforces:2242C": {
+      "folder": "1300",
+      "path": "1300/2242C - Unstable Elements.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Unstable Elements"
+    },
+    "codeforces:2242D": {
+      "folder": "1600",
+      "path": "1600/2242D - Two Digit Strings.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Two Digit Strings"
+    },
+    "codeforces:2244B": {
+      "folder": "800",
+      "path": "800/2244B - Nikita and Books.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Nikita and Books"
+    },
+    "codeforces:2245A": {
+      "folder": "800",
+      "path": "800/2245A - Who Watches the Watchpig-.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Who Watches the Watchpig-"
+    },
+    "codeforces:2245B": {
+      "folder": "1100",
+      "path": "1100/2245B - Delete and Concatenate.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Delete and Concatenate"
+    },
+    "codeforces:2246B": {
+      "folder": "900",
+      "path": "900/2246B - ezraft and Array.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "ezraft and Array"
+    },
+    "codeforces:2247A": {
+      "folder": "800",
+      "path": "800/2247A - Zero Sum.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Zero Sum"
+    },
+    "codeforces:2247B": {
+      "folder": "900",
+      "path": "900/2247B - Yet Another Constructive.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Yet Another Constructive"
+    },
+    "codeforces:2247C": {
+      "folder": "1100",
+      "path": "1100/2247C - Inversion of a Subsequence.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Inversion of a Subsequence"
+    },
+    "codeforces:2247D1": {
+      "folder": "1500",
+      "path": "1500/2247D1 - XOR Sorting (Easy Version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "XOR Sorting (Easy Version)"
+    },
+    "codeforces:2248A": {
+      "at": 1786139830995,
+      "folder": "800",
+      "path": "800/2248A - You Delete, I Delete.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "You Delete, I Delete"
+    },
+    "codeforces:2248B": {
+      "at": 1786139835091,
+      "folder": "1000",
+      "path": "1000/2248B - Merge to Match.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Merge to Match"
+    },
+    "codeforces:2248D": {
+      "at": 1786139839555,
+      "folder": "1400",
+      "path": "1400/2248D - Good Pair Queries.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Good Pair Queries"
+    },
+    "codeforces:2250A": {
+      "folder": "800",
+      "path": "800/2250A - Threshold Movement.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Threshold Movement"
+    },
+    "codeforces:2250B": {
+      "folder": "1000",
+      "path": "1000/2250B - String Construction.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "String Construction"
+    },
+    "codeforces:2250C": {
+      "folder": "1300",
+      "path": "1300/2250C - Rank Subsequence.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Rank Subsequence"
+    },
+    "codeforces:2253A": {
+      "at": 1786140240752,
+      "folder": "Unrated",
+      "path": "Unrated/2253A - The Best Card.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "The Best Card"
+    },
+    "codeforces:2253B": {
+      "at": 1786140247732,
+      "folder": "Unrated",
+      "path": "Unrated/2253B - Hypercarp and the Control Panel.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Hypercarp and the Control Panel"
+    },
+    "codeforces:2253C": {
+      "at": 1786140251895,
+      "folder": "Unrated",
+      "path": "Unrated/2253C - Sum of Distinct Values in a Matrix.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Sum of Distinct Values in a Matrix"
+    },
+    "codeforces:2253D": {
+      "at": 1786140256888,
+      "folder": "Unrated",
+      "path": "Unrated/2253D - Hypercarp and Interdimensional Jumps.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Hypercarp and Interdimensional Jumps"
+    },
+    "codeforces:2254A": {
+      "at": 1786139633258,
+      "folder": "Unrated",
+      "path": "Unrated/2254A - Riptide.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Riptide"
+    },
+    "codeforces:2254B": {
+      "at": 1786139638663,
+      "folder": "Unrated",
+      "path": "Unrated/2254B - Evanescent.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Evanescent"
+    },
+    "codeforces:2254C1": {
+      "at": 1786139644736,
+      "folder": "Unrated",
+      "path": "Unrated/2254C1 - Marenol (easy version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Marenol (easy version)"
+    },
+    "codeforces:2254C2": {
+      "at": 1786139649950,
+      "folder": "Unrated",
+      "path": "Unrated/2254C2 - Marenol (hard version).cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Marenol (hard version)"
+    },
+    "codeforces:2254D": {
+      "at": 1786140308193,
+      "folder": "Unrated",
+      "path": "Unrated/2254D - Silhouette.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Silhouette"
+    },
+    "codeforces:230B": {
+      "folder": "1300",
+      "path": "1300/230B - T-primes.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "T-primes"
+    },
+    "codeforces:276B": {
+      "at": 1786139811083,
+      "folder": "1300",
+      "path": "1300/276B - Little Girl and Game.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Little Girl and Game"
+    },
+    "codeforces:349B": {
+      "folder": "1700",
+      "path": "1700/349B - Color the Fence.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Color the Fence"
+    },
+    "codeforces:450B": {
+      "at": 1786140303364,
+      "folder": "1300",
+      "path": "1300/450B - Jzzhu and Sequences.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Jzzhu and Sequences"
+    },
+    "codeforces:451B": {
+      "at": 1786139682806,
+      "folder": "1300",
+      "path": "1300/451B - Sort the Array.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Sort the Array"
+    },
+    "codeforces:459B": {
+      "at": 1786139686913,
+      "folder": "1300",
+      "path": "1300/459B - Pashmak and Flowers.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Pashmak and Flowers"
+    },
+    "codeforces:466A": {
+      "folder": "1200",
+      "path": "1200/466A - Cheap Travel.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cheap Travel"
+    },
+    "codeforces:474B": {
+      "folder": "1200",
+      "path": "1200/474B - Worms.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Worms"
+    },
+    "codeforces:474D": {
+      "folder": "1700",
+      "path": "1700/474D - Flowers.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Flowers"
+    },
+    "codeforces:478B": {
+      "at": 1786139705209,
+      "folder": "1300",
+      "path": "1300/478B - Random Teams.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Random Teams"
+    },
+    "codeforces:4C": {
+      "folder": "1300",
+      "path": "1300/4C - Registration System.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Registration System"
+    },
+    "codeforces:514A": {
+      "folder": "1200",
+      "path": "1200/514A - Chewbaсca and Number.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Chewbaсca and Number"
+    },
+    "codeforces:545D": {
+      "at": 1786139622469,
+      "folder": "1300",
+      "path": "1300/545D - Queue.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Queue"
+    },
+    "codeforces:600B": {
+      "at": 1786139709217,
+      "folder": "1300",
+      "path": "1300/600B - Queries about less or equal elements.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Queries about less or equal elements"
+    },
+    "codeforces:702C": {
+      "folder": "1500",
+      "path": "1500/702C - Cellular Network.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Cellular Network"
+    },
+    "codeforces:821B": {
+      "folder": "1300",
+      "path": "1300/821B - Okabe and Banana Trees.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Okabe and Banana Trees"
+    },
+    "codeforces:821E": {
+      "folder": "2100",
+      "path": "2100/821E - Okabe and El Psy Kongroo.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Okabe and El Psy Kongroo"
+    },
+    "codeforces:903C": {
+      "folder": "1200",
+      "path": "1200/903C - Boxes Packing.cpp",
+      "platform": "codeforces",
+      "tags": [],
+      "title": "Boxes Packing"
+    },
+    "leetcode:1051": {
+      "at": 1786138320375,
+      "folder": "array",
+      "path": "leetcode/array/1051-Height-Checker.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "sorting",
+        "counting-sort",
+        "bubble-sort"
+      ],
+      "title": "Height-Checker"
+    },
+    "leetcode:1189": {
+      "at": 1786175657276,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/1189-Maximum-Number-of-Balloons.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "string",
+        "counting"
+      ],
+      "title": "Maximum-Number-of-Balloons"
+    },
+    "leetcode:1260": {
+      "at": 1786141571042,
+      "folder": "array",
+      "path": "leetcode/array/1260-Shift-2D-Grid.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "matrix",
+        "simulation"
+      ],
+      "title": "Shift-2D-Grid"
+    },
+    "leetcode:1288": {
+      "at": 1786175056696,
+      "folder": "array",
+      "path": "leetcode/array/1288-Remove-Covered-Intervals.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "sorting"
+      ],
+      "title": "Remove-Covered-Intervals"
+    },
+    "leetcode:1358": {
+      "at": 1786175236552,
+      "folder": "sliding-window",
+      "path": "leetcode/sliding-window/1358-Number-of-Substrings-Containing-All-Three-Characters.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "string",
+        "sliding-window"
+      ],
+      "title": "Number-of-Substrings-Containing-All-Three-Characters"
+    },
+    "leetcode:1394": {
+      "at": 1786138324162,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/1394-Find-Lucky-Integer-in-an-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "counting"
+      ],
+      "title": "Find-Lucky-Integer-in-an-Array"
+    },
+    "leetcode:14": {
+      "at": 1786138920958,
+      "folder": "trie",
+      "path": "leetcode/trie/14-Longest-Common-Prefix.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "string",
+        "trie"
+      ],
+      "title": "Longest-Common-Prefix"
+    },
+    "leetcode:1406": {
+      "at": 1786138636703,
+      "folder": "dynamic-programming",
+      "path": "leetcode/dynamic-programming/1406-Stone-Game-III.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "dynamic-programming",
+        "minimax-algorithm",
+        "game-theory",
+        "zero-sum-game"
+      ],
+      "title": "Stone-Game-III"
+    },
+    "leetcode:1408": {
+      "at": 1786138909618,
+      "folder": "array",
+      "path": "leetcode/array/1408-String-Matching-in-an-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "string",
+        "string-matching"
+      ],
+      "title": "String-Matching-in-an-Array"
+    },
+    "leetcode:1422": {
+      "at": 1786141557076,
+      "folder": "string",
+      "path": "leetcode/string/1422-Maximum-Score-After-Splitting-a-String.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "string",
+        "prefix-sum"
+      ],
+      "title": "Maximum-Score-After-Splitting-a-String"
+    },
+    "leetcode:1436": {
+      "at": 1786138612044,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/1436-Destination-City.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "string"
+      ],
+      "title": "Destination-City"
+    },
+    "leetcode:1464": {
+      "at": 1786138305858,
+      "folder": "heap-priority-queue",
+      "path": "leetcode/heap-priority-queue/1464-Maximum-Product-of-Two-Elements-in-an-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "sorting",
+        "heap-priority-queue"
+      ],
+      "title": "Maximum-Product-of-Two-Elements-in-an-Array"
+    },
+    "leetcode:1512": {
+      "at": 1786138338740,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/1512-Number-of-Good-Pairs.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "math",
+        "counting"
+      ],
+      "title": "Number-of-Good-Pairs"
+    },
+    "leetcode:1652": {
+      "at": 1786174996640,
+      "folder": "sliding-window",
+      "path": "leetcode/sliding-window/1652-Defuse-the-Bomb.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "sliding-window"
+      ],
+      "title": "Defuse-the-Bomb"
+    },
+    "leetcode:1732": {
+      "at": 1786175957622,
+      "folder": "array",
+      "path": "leetcode/array/1732-Find-the-Highest-Altitude.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "prefix-sum"
+      ],
+      "title": "Find-the-Highest-Altitude"
+    },
+    "leetcode:1768": {
+      "at": 1786138625094,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/1768-Merge-Strings-Alternately.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "two-pointers",
+        "string"
+      ],
+      "title": "Merge-Strings-Alternately"
+    },
+    "leetcode:1833": {
+      "at": 1786175716648,
+      "folder": "array",
+      "path": "leetcode/array/1833-Maximum-Ice-Cream-Bars.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "greedy",
+        "sorting",
+        "counting-sort"
+      ],
+      "title": "Maximum-Ice-Cream-Bars"
+    },
+    "leetcode:1840": {
+      "at": 1786175777955,
+      "folder": "array",
+      "path": "leetcode/array/1840-Maximum-Building-Height.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "sorting"
+      ],
+      "title": "Maximum-Building-Height"
+    },
+    "leetcode:1846": {
+      "at": 1786175357244,
+      "folder": "array",
+      "path": "leetcode/array/1846-Maximum-Element-After-Decreasing-and-Rearranging.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "greedy",
+        "sorting"
+      ],
+      "title": "Maximum-Element-After-Decreasing-and-Rearranging"
+    },
+    "leetcode:1913": {
+      "at": 1786138604856,
+      "folder": "array",
+      "path": "leetcode/array/1913-Maximum-Product-Difference-Between-Two-Pairs.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "sorting",
+        "quicksort"
+      ],
+      "title": "Maximum-Product-Difference-Between-Two-Pairs"
+    },
+    "leetcode:1967": {
+      "at": 1786175296063,
+      "folder": "array",
+      "path": "leetcode/array/1967-Number-of-Strings-That-Appear-as-Substrings-in-Word.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "string"
+      ],
+      "title": "Number-of-Strings-That-Appear-as-Substrings-in-Word"
+    },
+    "leetcode:1979": {
+      "at": 1786141568069,
+      "folder": "array",
+      "path": "leetcode/array/1979-Find-Greatest-Common-Divisor-of-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "number-theory",
+        "euclidean-algorithm",
+        "greatest-common-divisor"
+      ],
+      "title": "Find-Greatest-Common-Divisor-of-Array"
+    },
+    "leetcode:2053": {
+      "at": 1786138615800,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/2053-Kth-Distinct-String-in-an-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "string",
+        "counting"
+      ],
+      "title": "Kth-Distinct-String-in-an-Array"
+    },
+    "leetcode:2108": {
+      "at": 1786138633907,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/2108-Find-First-Palindromic-String-in-the-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "two-pointers",
+        "string"
+      ],
+      "title": "Find-First-Palindromic-String-in-the-Array"
+    },
+    "leetcode:2206": {
+      "at": 1786138335042,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/2206-Divide-Array-Into-Equal-Pairs.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "bit-manipulation",
+        "counting"
+      ],
+      "title": "Divide-Array-Into-Equal-Pairs"
+    },
+    "leetcode:2231": {
+      "at": 1786138923699,
+      "folder": "heap-priority-queue",
+      "path": "leetcode/heap-priority-queue/2231-Largest-Number-After-Digit-Swaps-by-Parity.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "sorting",
+        "heap-priority-queue"
+      ],
+      "title": "Largest-Number-After-Digit-Swaps-by-Parity"
+    },
+    "leetcode:225": {
+      "at": 1786175116736,
+      "folder": "stack",
+      "path": "leetcode/stack/225-Implement-Stack-using-Queues.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "stack",
+        "design",
+        "queue"
+      ],
+      "title": "Implement-Stack-using-Queues"
+    },
+    "leetcode:232": {
+      "at": 1786175597511,
+      "folder": "stack",
+      "path": "leetcode/stack/232-Implement-Queue-using-Stacks.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "stack",
+        "design",
+        "queue"
+      ],
+      "title": "Implement-Queue-using-Stacks"
+    },
+    "leetcode:2486": {
+      "at": 1786138903778,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/2486-Append-Characters-to-String-to-Make-Subsequence.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "two-pointers",
+        "string",
+        "greedy"
+      ],
+      "title": "Append-Characters-to-String-to-Make-Subsequence"
+    },
+    "leetcode:2490": {
+      "at": 1786138601307,
+      "folder": "string",
+      "path": "leetcode/string/2490-Circular-Sentence.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "string"
+      ],
+      "title": "Circular-Sentence"
+    },
+    "leetcode:290": {
+      "at": 1786138312994,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/290-Word-Pattern.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "string"
+      ],
+      "title": "Word-Pattern"
+    },
+    "leetcode:2996": {
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/2996-Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum.cpp",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "Smallest-Missing-Integer-Greater-Than-Sequential-Prefix-Sum"
+    },
+    "leetcode:3014": {
+      "at": 1786138342389,
+      "folder": "string",
+      "path": "leetcode/string/3014-Minimum-Number-of-Pushes-to-Type-Word-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "math",
+        "string",
+        "greedy"
+      ],
+      "title": "Minimum-Number-of-Pushes-to-Type-Word-I"
+    },
+    "leetcode:3016": {
+      "at": 1786138608444,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/3016-Minimum-Number-of-Pushes-to-Type-Word-II.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "string",
+        "greedy",
+        "sorting",
+        "counting"
+      ],
+      "title": "Minimum-Number-of-Pushes-to-Type-Word-II"
+    },
+    "leetcode:3020": {
+      "at": 1786174940410,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/3020-Find-the-Maximum-Number-of-Elements-in-Subset.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "enumeration"
+      ],
+      "title": "Find-the-Maximum-Number-of-Elements-in-Subset"
+    },
+    "leetcode:3043": {
+      "at": 1786138915157,
+      "folder": "trie",
+      "path": "leetcode/trie/3043-Find-the-Length-of-the-Longest-Common-Prefix.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "string",
+        "trie"
+      ],
+      "title": "Find-the-Length-of-the-Longest-Common-Prefix"
+    },
+    "leetcode:3310": {
+      "folder": "graph",
+      "path": "leetcode/graph/3310-Remove-Methods-From-Project.cpp",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "Remove-Methods-From-Project"
+    },
+    "leetcode:3345": {
+      "at": 1786138929514,
+      "folder": "math",
+      "path": "leetcode/math/3345-Smallest-Divisible-Digit-Product-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "math",
+        "enumeration"
+      ],
+      "title": "Smallest-Divisible-Digit-Product-I"
+    },
+    "leetcode:3348": {
+      "at": 1786138932257,
+      "folder": "backtracking",
+      "path": "leetcode/backtracking/3348-Smallest-Divisible-Digit-Product-II.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "math",
+        "string",
+        "backtracking",
+        "greedy",
+        "number-theory"
+      ],
+      "title": "Smallest-Divisible-Digit-Product-II"
+    },
+    "leetcode:344": {
+      "at": 1786141588302,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/344-Reverse-String.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "two-pointers",
+        "string"
+      ],
+      "title": "Reverse-String"
+    },
+    "leetcode:3499": {
+      "at": 1786141573843,
+      "folder": "string",
+      "path": "leetcode/string/3499-Maximize-Active-Section-with-Trade-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "string",
+        "enumeration"
+      ],
+      "title": "Maximize-Active-Section-with-Trade-I"
+    },
+    "leetcode:3513": {
+      "at": 1786141579336,
+      "folder": "array",
+      "path": "leetcode/array/3513-Number-of-Unique-XOR-Triplets-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "bit-manipulation"
+      ],
+      "title": "Number-of-Unique-XOR-Triplets-I"
+    },
+    "leetcode:3514": {
+      "at": 1786141582148,
+      "folder": "array",
+      "path": "leetcode/array/3514-Number-of-Unique-XOR-Triplets-II.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "bit-manipulation",
+        "enumeration"
+      ],
+      "title": "Number-of-Unique-XOR-Triplets-II"
+    },
+    "leetcode:3517": {
+      "at": 1786138316579,
+      "folder": "string",
+      "path": "leetcode/string/3517-Smallest-Palindromic-Rearrangement-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "string",
+        "sorting",
+        "counting-sort"
+      ],
+      "title": "Smallest-Palindromic-Rearrangement-I"
+    },
+    "leetcode:3518": {
+      "at": 1786138331427,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/3518-Smallest-Palindromic-Rearrangement-II.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "math",
+        "string",
+        "combinatorics",
+        "counting"
+      ],
+      "title": "Smallest-Palindromic-Rearrangement-II"
+    },
+    "leetcode:3536": {
+      "at": 1786141584938,
+      "folder": "math",
+      "path": "leetcode/math/3536-Maximum-Product-of-Two-Digits.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "math",
+        "sorting"
+      ],
+      "title": "Maximum-Product-of-Two-Digits"
+    },
+    "leetcode:3658": {
+      "at": 1786141559801,
+      "folder": "math",
+      "path": "leetcode/math/3658-GCD-of-Odd-and-Even-Sums.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "math",
+        "number-theory"
+      ],
+      "title": "GCD-of-Odd-and-Even-Sums"
+    },
+    "leetcode:3699": {
+      "at": 1786175536488,
+      "folder": "dynamic-programming",
+      "path": "leetcode/dynamic-programming/3699-Number-of-ZigZag-Arrays-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "dynamic-programming",
+        "prefix-sum"
+      ],
+      "title": "Number-of-ZigZag-Arrays-I"
+    },
+    "leetcode:3731": {
+      "at": 1786138906742,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/3731-Find-Missing-Elements.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "sorting"
+      ],
+      "title": "Find-Missing-Elements"
+    },
+    "leetcode:3737": {
+      "at": 1786175476846,
+      "folder": "segment-tree",
+      "path": "leetcode/segment-tree/3737-Count-Subarrays-With-Majority-Element-I.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "divide-and-conquer",
+        "segment-tree",
+        "merge-sort",
+        "counting",
+        "prefix-sum"
+      ],
+      "title": "Count-Subarrays-With-Majority-Element-I"
+    },
+    "leetcode:3739": {
+      "at": 1786175417745,
+      "folder": "segment-tree",
+      "path": "leetcode/segment-tree/3739-Count-Subarrays-With-Majority-Element-II.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "divide-and-conquer",
+        "segment-tree",
+        "merge-sort",
+        "prefix-sum"
+      ],
+      "title": "Count-Subarrays-With-Majority-Element-II"
+    },
+    "leetcode:383": {
+      "at": 1786138327743,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/383-Ransom-Note.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "string",
+        "counting"
+      ],
+      "title": "Ransom-Note"
+    },
+    "leetcode:3867": {
+      "at": 1786141562523,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/3867-Sum-of-GCD-of-Formed-Pairs.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "two-pointers",
+        "sorting",
+        "simulation",
+        "number-theory"
+      ],
+      "title": "Sum-of-GCD-of-Formed-Pairs"
+    },
+    "leetcode:3963": {
+      "at": 1786175896929,
+      "folder": "misc",
+      "path": "leetcode/misc/3963-Create-Grid-With-Exactly-One-Path.cpp",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "Create-Grid-With-Exactly-One-Path"
+    },
+    "leetcode:3964": {
+      "at": 1786175836801,
+      "folder": "misc",
+      "path": "leetcode/misc/3964-Minimum-Lights-to-Illuminate-a-Road.cpp",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "Minimum-Lights-to-Illuminate-a-Road"
+    },
+    "leetcode:3978": {
+      "at": 1786174835758,
+      "folder": "misc",
+      "path": "leetcode/misc/3978-Unique-Middle-Element.cpp",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "Unique-Middle-Element"
+    },
+    "leetcode:3979": {
+      "at": 1786175177107,
+      "folder": "misc",
+      "path": "leetcode/misc/3979-Maximum-Valid-Pair-Sum.cpp",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "Maximum-Valid-Pair-Sum"
+    },
+    "leetcode:409": {
+      "at": 1786174876665,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/409-Longest-Palindrome.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "hash-table",
+        "string",
+        "greedy"
+      ],
+      "title": "Longest-Palindrome"
+    },
+    "leetcode:443": {
+      "at": 1786138926433,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/443-String-Compression.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "two-pointers",
+        "string"
+      ],
+      "title": "String-Compression"
+    },
+    "leetcode:455": {
+      "at": 1786138631146,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/455-Assign-Cookies.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "two-pointers",
+        "greedy",
+        "sorting",
+        "quicksort"
+      ],
+      "title": "Assign-Cookies"
+    },
+    "leetcode:486": {
+      "at": 1786138619312,
+      "folder": "dynamic-programming",
+      "path": "leetcode/dynamic-programming/486-Predict-the-Winner.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "dynamic-programming",
+        "recursion",
+        "minimax-algorithm",
+        "game-theory",
+        "zero-sum-game"
+      ],
+      "title": "Predict-the-Winner"
+    },
+    "leetcode:5": {
+      "at": 1786141576547,
+      "folder": "dynamic-programming",
+      "path": "leetcode/dynamic-programming/5-Longest-Palindromic-Substring.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "two-pointers",
+        "string",
+        "dynamic-programming",
+        "manacher"
+      ],
+      "title": "Longest-Palindromic-Substring"
+    },
+    "leetcode:55": {
+      "at": 1786141565291,
+      "folder": "dynamic-programming",
+      "path": "leetcode/dynamic-programming/55-Jump-Game.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "dynamic-programming",
+        "greedy"
+      ],
+      "title": "Jump-Game"
+    },
+    "leetcode:624": {
+      "at": 1786138309364,
+      "folder": "array",
+      "path": "leetcode/array/624-Maximum-Distance-in-Arrays.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "greedy"
+      ],
+      "title": "Maximum-Distance-in-Arrays"
+    },
+    "leetcode:628": {
+      "at": 1786138302183,
+      "folder": "array",
+      "path": "leetcode/array/628-Maximum-Product-of-Three-Numbers.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "sorting"
+      ],
+      "title": "Maximum-Product-of-Three-Numbers"
+    },
+    "leetcode:680": {
+      "at": 1786138622279,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/680-Valid-Palindrome-II.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "two-pointers",
+        "string",
+        "greedy"
+      ],
+      "title": "Valid-Palindrome-II"
+    },
+    "leetcode:877": {
+      "at": 1786138917980,
+      "folder": "dynamic-programming",
+      "path": "leetcode/dynamic-programming/877-Stone-Game.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "math",
+        "dynamic-programming",
+        "minimax-algorithm",
+        "game-theory",
+        "zero-sum-game"
+      ],
+      "title": "Stone-Game"
+    },
+    "leetcode:905": {
+      "at": 1786138912395,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/905-Sort-Array-By-Parity.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "two-pointers",
+        "sorting"
+      ],
+      "title": "Sort-Array-By-Parity"
+    },
+    "leetcode:939": {
+      "at": 1786138900878,
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/939-Minimum-Area-Rectangle.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "hash-table",
+        "math",
+        "geometry",
+        "sorting"
+      ],
+      "title": "Minimum-Area-Rectangle"
+    },
+    "leetcode:977": {
+      "at": 1786138628294,
+      "folder": "two-pointers",
+      "path": "leetcode/two-pointers/977-Squares-of-a-Sorted-Array.cpp",
+      "platform": "leetcode",
+      "tags": [
+        "array",
+        "two-pointers",
+        "sorting"
+      ],
+      "title": "Squares-of-a-Sorted-Array"
+    },
+    "leetcode:remove-methods-from-project": {
+      "folder": "graph",
+      "path": "leetcode/graph/remove-methods-from-project.c",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "remove-methods-from-project"
+    },
+    "leetcode:smallest-missing-integer-greater-than-sequential-prefix-sum": {
+      "folder": "hash-table",
+      "path": "leetcode/hash-table/smallest-missing-integer-greater-than-sequential-prefix-sum.c",
+      "platform": "leetcode",
+      "tags": [],
+      "title": "smallest-missing-integer-greater-than-sequential-prefix-sum"
+    },
+    "codeforces:492B": {
+      "platform": "codeforces",
+      "folder": "1200",
+      "title": "Vanya and Lanterns",
+      "path": "1200/492B - Vanya and Lanterns.cpp",
+      "tags": [],
+      "at": 1786177926043
+    }
+  }
+}
